@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7129bde-53e0-44b3-9299-c7b6b49dcdc0" name="Default Changelist" comment="" />
+    <list default="true" id="f7129bde-53e0-44b3-9299-c7b6b49dcdc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cases.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,23 +16,24 @@
     <session id="1710321000">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="8" />
           <entry key="dummy" value="19" />
-          <entry key="py" value="1574" />
+          <entry key="py" value="1579" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="1582" />
+          <entry key="Python" value="1587" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            <state relative-caret-position="289">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -66,6 +71,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -79,12 +87,12 @@
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,6 +104,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        <state relative-caret-position="289">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
