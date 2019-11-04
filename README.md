@@ -10,4 +10,5 @@ BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#
 
 Chrome driver (for interaction with browser)  https://sites.google.com/a/chromium.org/chromedriver/downloads  
 (if you are using mozilla, you need a different driver) 
+Be sure to download the same driver version as your browser version.
 Install the driver by opening the "chromedriver" file.  
